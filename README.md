@@ -1,4 +1,6 @@
-[Ссылка на проект]()
+[Ссылка на проект](https://ivansergeev1.github.io/ahj-ev)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/ryd0wm3dbnvsmptg?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-ev)
 
 ### Игра с гоблинами
 
